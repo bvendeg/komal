@@ -1,5 +1,7 @@
 __author__ = 'Balazs Vendeg'
 
+# Homework: change the solution to be tail recursive
+
 
 class Denominator(object):
     def __init__(self):

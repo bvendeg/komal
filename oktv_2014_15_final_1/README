@@ -1,0 +1,14 @@
+Residents of the Long street decided to build WiFi networks for themselves. They were given fair offers for network devices having a coverage of H meters. Each and every network device has to be installed inside a house. The residents provided the locations (reference point), where the devices could be placed. The reference points are given in meters as the distance from the first house of the street. All the houses must have WiFi coverage, but not the whole street.
+
+Create an application, which can calculate how many network devices are needed and where they should be installed.
+
+Input: Ordered series of N positive integers (the reference points)
+Output: The index of the houses, where a network device should be installed.
+
+This exercise was published in the copy of 2016/6.
+
+Comment: We can assume that the street is basically straight.
+
+To make it more difficult give the referential points as coordinates (x, y). Where x, y are real numbers.
+
+To make it even more difficult do not have any assumption on the shape of the street. It could be even concave!

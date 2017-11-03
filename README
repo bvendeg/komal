@@ -1,1 +1,5 @@
-Solutions for KoMaL excercises.
+In Hungary there is a journal called KoMal for secondary school students. It publishes maths, physics and IT exercises as well as articles. For the maths and physics exercises they provide solutions as well, so the students can check their own solution if it is correct.
+
+The journal has an electronic version, but mainly paper based. So publishing solutions for computer programming exercises (source code) quite difficult.
+
+I decided that I'm going to use these relatively easy programming problems to keep my skills sharp. My goal is to write clean code using TDD. Showing the right direction for future developers.
